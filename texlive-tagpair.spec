@@ -1,6 +1,6 @@
 Name:		texlive-tagpair
 Version:	42138
-Release:	1
+Release:	2
 Summary:	Word-by-word glosses, translations, and bibliographic attributions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tagpair
